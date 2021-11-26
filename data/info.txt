@@ -1,0 +1,6 @@
+En este directorio se guardaran la base de dato correspondiente a cada usuario que haga consultas al Bot.
+
+El nombre asignado es de la sguiente forma:
+
+data_'idUser_telegram'.csv  Contiene los datos de Producto,Precio,Nuevo Precio y Link.
+data_'idUser_telegram'.txt  Contiene la lista de links que el usuario desea analizar. 

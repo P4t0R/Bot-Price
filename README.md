@@ -1,4 +1,4 @@
-# Bot-Price
+# Bot-Price   Estado ---> En Desarrollo !!!!
 Bot de telegram que te informa si un producto baja de precio
 
 Desarrollado con el objetivo de que alerte la baja de precios de ciertos productos de interes.

@@ -1,0 +1,5 @@
+#Ejecutar  pip install -r requirements.txt
+
+#Telegram
+python-telegram-bot==13.8.1
+beautifulsoup4==4.6.3

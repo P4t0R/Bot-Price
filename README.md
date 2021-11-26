@@ -1,5 +1,5 @@
 # Bot-Price
-Bot que te informa si un producto baja de precio
+Bot de telegram que te informa si un producto baja de precio
 
 Desarrollado con el objetivo de que alerte la baja de precios de ciertos productos de interes.
 Su funcionamiento basico consiste en que se ingresan mediante telegran los links de productos de interes y el Bot estara permanentemente consultando el precio una vez que encuentre una diferencia en el precio alertara mediante un mensaje en telegran al usuario que creo esa lista de productos.
